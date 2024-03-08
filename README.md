@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on Machine learning(AWS) and data engineering projects on Azure (Data Factory,SQL Server SSIS, Power BI, PostgreSQL, Databricks)
 - 👯 I’m looking to collaborate on projects in machine learning or data engineering
-- 💬 Ask me about anything, I am happy to help [Connect with me on LinkedIn!](https://www.linkedin.com/in/komalilyas/)
-- 📫 How to reach me: komal.ilyas@gmail.com
+- 💬 Ask me about anything, I am happy to help!
+- 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/komalilyas/)
 - 💻 I love writing code and learn anythings about it
 - ⚡ Fun fact: I survive on coffee so if you wanna fund my coffee survival:<br>
   <a href="https://www.buymeacoffee.com/ktamu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
@@ -28,7 +28,7 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spark/spark.png" alt="Apache Spark">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/hadoop/hadoop.png" alt="Hadoop">
+
 
 <!--
 **komaltamu/komaltamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
