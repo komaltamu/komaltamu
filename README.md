@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on projects in machine learning or data engineering
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/komalilyas/)
-- 💻 I love writing code and learn anythings about it
+- 💻 I love writing code and learn anything about it
 - ⚡ Fun fact: I survive on coffee so if you wanna fund my coffee survival:<br>
   <a href="https://www.buymeacoffee.com/ktamu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 
