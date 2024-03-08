@@ -6,8 +6,9 @@ I am Komal Ilyas. I graduated from Texas A&M with a master's in computer science
 - 🌱 I’m currently learning Machine learning LLMs and image segmentation.
 - 👯 I’m looking to collaborate on projects in machine learning or data engineering.
 - 💬 Ask me about anything [Connect with me on LinkedIn!](https://www.linkedin.com/in/komalilyas/)
+- 📫 How to reach me: komal.ilyas@gmail.com
 - ⚡ Fun fact: I survive on coffee so if you wanna fund my coffee survival
-- <a href="https://www.buymeacoffee.com/ktamu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <a href="https://www.buymeacoffee.com/ktamu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!--
 **komaltamu/komaltamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
