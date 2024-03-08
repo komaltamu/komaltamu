@@ -19,11 +19,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img height="20" src="https://path-to-image/python.png" alt="Python">
-<img height="20" src="https://path-to-image/ruby.png" alt="Ruby">
-<img height="20" src="https://path-to-image/r.png" alt="R">
-<img height="20" src="https://path-to-image/shell_scripting.png" alt="Shell Scripting">
-<img height="20" src="https://path-to-image/sql.png" alt="SQL">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="GIT">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spark/spark.png" alt="Apache Spark">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/hadoop/hadoop.png" alt="Hadoop">
 
 <!--
 **komaltamu/komaltamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
