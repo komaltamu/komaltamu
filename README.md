@@ -6,7 +6,7 @@
 
 *Hi there 👋* I am Komal Ilyas. I graduated from Texas A&M with a master's in computer science. I worked for H-E-B (Emerging Tech and Innov) and IDES-inc before. 
 
-- 🔭 I’m currently working on Machine learning(AWS) and data engineering projects on Azure (Data Factory,SQL Server SSIS, Power BI, PostgreSQL, Databricks)
+- 🔭 I’m currently working on Machine learning(AWS) and data engineering projects on Azure.
 - 👯 I’m looking to collaborate on projects in machine learning or data engineering
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/komalilyas/)
